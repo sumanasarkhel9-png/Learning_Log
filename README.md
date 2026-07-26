@@ -1,2 +1,2 @@
-# portfolio-website
-My personal portfolio website showcasing my projects, skills, and contact details.  Built with HTML, CSS, and JavaScript. Responsive and easy to customize.
+# LEARNING LOG
+A collection of my daily coding practices, Web Development projects, and learning experiments.
